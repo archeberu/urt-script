@@ -6,7 +6,7 @@
 Sert pour les déplacements / bind radio et les touches obligatoires
 
 #######################
-#  auto.cfg
+##  auto.cfg
 #######################
 Sert lorsque je joue à l'auto ou en jump. Il permet de modifier la sensibilité de la souris ainsi que la cvar fov avec le clic droit.
 
